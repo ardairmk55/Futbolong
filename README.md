@@ -9,17 +9,6 @@
 
 **Gümüşhane Üniversitesi - Bilgisayar Programcılığı** bölümü kapsamında geliştirilmiş, Nesne Yönelimli Programlama (OOP) ve SOLID prensiplerini derinlemesine kullanan, olay güdümlü (Event-Driven) bir futbol simülasyon ve maç motoru (Match Engine) projesidir.
 
----
-
-## 📑 İçindekiler
-- [Proje Hakkında](#-proje-hakkında)
-- [Mimari ve OOP Yaklaşımı](#-mimari-ve-oop-yaklaşımı)
-- [Oyun Motoru Özellikleri (Match Engine)](#-oyun-motoru-özellikleri-match-engine)
-- [Kullanıcı Arayüzü (UI) ve Deneyim (UX)](#-kullanıcı-arayüzü-ui-ve-deneyim-ux)
-- [Kurulum ve Çalıştırma](#-kurulum-ve-çalıştırma)
-- [Geliştirici Ekip](#-geliştirici-ekip)
-
----
 
 ## 🚀 Proje Hakkında
 
